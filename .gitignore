@@ -44,6 +44,7 @@ perf-*.xml
 test-*.xml
 
 # Directories
+build/
 .idea/
 .vs/
 .vscode/
